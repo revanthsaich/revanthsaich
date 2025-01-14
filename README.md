@@ -1,7 +1,6 @@
 ## Hi there! 👋
 
-I'm <p style="font-size: 3rem;"><b>Revanth Sai Chaparala</b></p>
-a passionate developer with a knack for creating impactful applications. Welcome to my GitHub profile!
+I'm <b><font size="10">Revanth Sai Chaparala</font></b>, a passionate developer with a knack for creating impactful applications. Welcome to my GitHub profile!
 
 ## About Me
 
