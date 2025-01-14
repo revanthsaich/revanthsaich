@@ -8,7 +8,9 @@ I am a software developer with a keen interest in web technologies. Currently, I
 
 ## Skills & Technologies
 
-java,c,py,react,nodejs,postgres,postman,html,css,tailwind,django,express,mongodb,androidstudio,kotlin,aws,blender,docker,figma,firebase,git,github,js,linux,mysql,webpack,unity
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,c,py,react,nodejs,postgres,postman,html,css,tailwind,django,express,mongodb,androidstudio,kotlin,aws,blender,docker,figma,firebase,git,github,js,linux,mysql,webpack,unity&perline=8" alt="Skill Icons" />
+</div>
 
 ## Top Projects
 
